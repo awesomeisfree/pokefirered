@@ -32,7 +32,7 @@ const u8 gMoveNames[][13] = {
     _("HORN ATTACK"),
     _("FURY ATTACK"),
     _("HORN DRILL"),
-    _("TACKLE"),
+    _("LEMON STRIKE"),
     _("BODY SLAM"),
     _("WRAP"),
     _("TAKE DOWN"),

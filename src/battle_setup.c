@@ -228,7 +228,8 @@ void StartWildBattle(void)
     else if (CheckSilphScopeInPokemonTower(gSaveBlock1Ptr->location.mapGroup, gSaveBlock1Ptr->location.mapNum))
         DoGhostBattle();
     else
-        DoStandardWildBattle();
+        DoSafariBattle();
+        //DoStandardWildBattle();
 }
 
 static void DoStandardWildBattle(void)
